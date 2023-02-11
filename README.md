@@ -1,0 +1,1 @@
+This repository contains the code for an Object Detection System as part of the StrandAid project. The system uses computer vision and deep learning algorithms to detect and classify objects in real-time. The code is written in Python using TensorFlow and OpenCV libraries and is open source, welcoming contributions from the community.
